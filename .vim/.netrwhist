@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/ken/Work/vcp-srv/vcp-ads-types/src/main/java/com/emc'
+let g:netrw_dirhist_2='/Users/ken/Work/vcp-srv/vcp-ads-types/src/main/java/com/emc/vcp'
+let g:netrw_dirhist_3='/Users/ken/Work/vcp-srv/vcp-ads-types/src/main/java/com/emc/vcp/api'
+let g:netrw_dirhist_4='/Users/ken/Work/vcp-srv/vcp-ads-types/src/main/java/com/emc/vcp/api/om'
+let g:netrw_dirhist_5='/Users/ken/Work/vcp-srv/vcp-ads-types'

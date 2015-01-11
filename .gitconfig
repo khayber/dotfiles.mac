@@ -1,0 +1,22 @@
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+	cp = cherry-pick
+	lg = log --decorate --graph --stat
+[color]
+	ui = auto
+[user]
+	name = Ken Hayber
+	email = ken@hayber.us
+[core]
+[diff]
+	tool = meld
+[difftool "meld"]
+	cmd = echo meld -n $LOCAL $REMOTE &
+	prompt = false
+[difftool]
+	prompt = false
+[push]
+	default = simple
