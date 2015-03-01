@@ -4,6 +4,10 @@
 .anyconnect-stats.txt
 .bash_history
 .histfile
+.android/
+.npm/
+.cache/
+.config/
 .cisco/
 .cups/
 .dropbox/
