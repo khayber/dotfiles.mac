@@ -16,6 +16,8 @@
 .m2/
 .rnd
 .viminfo
+.nviminfo
+.nvimlog
 .ssh/
 Applications/
 Desktop/

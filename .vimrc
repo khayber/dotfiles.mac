@@ -12,7 +12,10 @@ let g:airline#extensions#tabline#enabled = 1
 set nocompatible
 
 set t_Co=256
-colorscheme Tomorrow-Night-Bright
+"let g:rehash256 = 1
+"let g:molokai_original = 1
+"colorscheme Tomorrow-Night-Bright
+colorscheme Molokai
 
 set tabstop=4
 set shiftwidth=4
@@ -33,7 +36,7 @@ set ruler
 set hidden
 set number
 
-set clipboard=unnamed
+set clipboard=unnamedplus
 
 "set list
 "set listchars=tab:♢\ ,eol:¶

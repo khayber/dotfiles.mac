@@ -9,14 +9,12 @@
 	ui = auto
 [user]
 	name = Ken Hayber
-	email = ken@hayber.us
+	email = khayber@gmail.com
 [core]
 [diff]
 	tool = meld
 [difftool "meld"]
 	cmd = echo meld -n $LOCAL $REMOTE &
-	prompt = false
-[difftool]
 	prompt = false
 [push]
 	default = simple
