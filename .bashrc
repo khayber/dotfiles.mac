@@ -5,6 +5,7 @@ HISTSIZE=1000
 HISTFILESIZE=2000
 shopt -s checkwinsize
 shopt -s histappend
+shopt -s globstar
 PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
 
 #PS1='\[\033[01;32m\]\u@\h\[\033[01;34m\] \w \$\[\033[00m\] '
